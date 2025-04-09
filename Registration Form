@@ -17,10 +17,12 @@
 			Pets: <br>
 			<input type="checkbox" name="cat">Cat<br>
 			<input type="checkbox" name="dog">Dog<br>
+			<input type="checkbox" name="bird">Bird<br>
 			Cars: <br>
 			<select name="cars">
 				<option value="volvo" name="volvo">Volvo</option>
 				<option value="Audi" name="Audi">Audi</option>
+				<option value="Dodge" name="Dodge">Dodge</option>
 			</select><br>
 			<input type="submit" value="Register!">
 			<input type="reset">
