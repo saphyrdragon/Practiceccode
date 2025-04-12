@@ -23,6 +23,8 @@
 				<option value="volvo" name="volvo">Volvo</option>
 				<option value="Audi" name="Audi">Audi</option>
 				<option value="Dodge" name="Dodge">Dodge</option>
+			Favorite Music: <br>
+			<input type="checkbox" name="Punk">Punk<br>
 			</select><br>
 			<input type="submit" value="Register!">
 			<input type="reset">
