@@ -25,6 +25,7 @@
 				<option value="Dodge" name="Dodge">Dodge</option>
 			Favorite Music: <br>
 			<input type="checkbox" name="Punk">Punk<br>
+			<input type="checkbox" name="Rock">Rock<br>
 			</select><br>
 			<input type="submit" value="Register!">
 			<input type="reset">
